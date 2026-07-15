@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Deployed from GitHub Actions</title>
+</head>
+
+<body>
+    <h1>🚀 Deployed from GitHub Actions!</h1>
+
+    <p>
+        This website was automatically deployed using GitHub Actions CI/CD.
+    </p>
+
+    <p>
+        Last deployed:
+        <span id="time"></span>
+    </p>
+
+    <script>
+        document.getElementById("time").innerText =
+        new Date().toLocaleString();
+    </script>
+
+</body>
+</html>

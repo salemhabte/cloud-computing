@@ -14,3 +14,10 @@ def divide(a, b):
     if b == 0:
         raise ValueError("Cannot divide by zero")
     return a / b
+
+
+<< << << < HEAD
+== == == =
+
+
+>>>>>> > dd553d001eb4d7be5047b06dcf78f4d8602c6f51
