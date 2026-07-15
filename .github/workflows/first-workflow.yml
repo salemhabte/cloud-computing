@@ -1,4 +1,4 @@
-[200~name: First Workflow
+name: First Workflow
 
 on:
   push:
@@ -36,4 +36,3 @@ jobs:
       with:
         name: workflow-info
         path: workflow-info.txt
-~
