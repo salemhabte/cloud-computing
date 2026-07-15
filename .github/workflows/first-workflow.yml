@@ -1,4 +1,4 @@
-[200~name: First Workflow
+name: First Workflow
 
 on:
   push:
